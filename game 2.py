@@ -1,12 +1,12 @@
 import pygame
 import sys
 
-# Инициализация Pygame
+# Инициализация Pygame 
 pygame.init()
 
 # Задание размера игрового поля
-game_width = 500
-game_height = 500
+game_width = 800
+game_height = 800
 
 # Создание игрового окна
 game_display = pygame.display.set_mode((game_width, game_height))
